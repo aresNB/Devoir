@@ -1,0 +1,14 @@
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/bin/Debug/net8.0/demon
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/bin/Debug/net8.0/demon.deps.json
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/bin/Debug/net8.0/demon.runtimeconfig.json
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/bin/Debug/net8.0/demon.dll
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/bin/Debug/net8.0/demon.pdb
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/obj/Debug/net8.0/demon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/obj/Debug/net8.0/demon.AssemblyInfoInputs.cache
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/obj/Debug/net8.0/demon.AssemblyInfo.cs
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/obj/Debug/net8.0/demon.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/obj/Debug/net8.0/demon.dll
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/obj/Debug/net8.0/refint/demon.dll
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/obj/Debug/net8.0/demon.pdb
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/obj/Debug/net8.0/demon.genruntimeconfig.cache
+/Users/macbook/Documents/L3 GLRS S/C#/devoir_c#_2/demon/obj/Debug/net8.0/ref/demon.dll
